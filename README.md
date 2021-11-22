@@ -1,3 +1,3 @@
 # sample
 
-fafa
+sample 変更済み
